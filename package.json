@@ -1,0 +1,35 @@
+{
+  "name": "sky-tech-nextapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@reduxjs/toolkit": "^2.2.7",
+    "formik": "^2.4.6",
+    "framer-motion": "^11.7.0",
+    "lodash": "^4.17.21",
+    "next": "14.2.13",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "redux": "^5.0.1",
+    "sky-tech-nextapp": "file:",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/styled-components": "^5.1.34",
+    "prettier": "^3.3.3",
+    "typescript": "^5"
+  }
+}

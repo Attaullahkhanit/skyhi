@@ -1,0 +1,13 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"src\\app\\layout.tsx","import":"","arguments":[{"src":"../assets/fonts/GoodTimesRg-Regular.woff","variable":"--font-goodtimes-regular","weight":"400"}],"variableName":"goodtimesRegular"} ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__goodtimesRegular_534956';
+src: url(/_next/static/media/8cbbba37ef66bb2d-s.p.woff) format('woff');
+font-display: swap;
+font-weight: 400;
+}@font-face {font-family: '__goodtimesRegular_Fallback_534956';src: local("Arial");ascent-override: 59.11%;descent-override: 11.90%;line-gap-override: 0.00%;size-adjust: 169.00%
+}.__className_534956 {font-family: '__goodtimesRegular_534956', '__goodtimesRegular_Fallback_534956';font-weight: 400
+}.__variable_534956 {--font-goodtimes-regular: '__goodtimesRegular_534956', '__goodtimesRegular_Fallback_534956'
+}
+
